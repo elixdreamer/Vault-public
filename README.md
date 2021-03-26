@@ -1,6 +1,6 @@
-#Vault
+# Vault
 
-###Here is the recommended way to install at the moment.Radme
+### Here is the recommended way to install at the moment.
 
 1. Download and Install MultiMC - https://multimc.org/#Download
 2. Launch MultiMC 
@@ -13,4 +13,4 @@
 10. Navigate to the .zip downloaded from discord.
 11. Click ok.
 
-Enjoy the pack!
+# Enjoy the pack!
